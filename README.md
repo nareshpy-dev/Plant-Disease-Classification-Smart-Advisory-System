@@ -85,6 +85,11 @@ The system is deployed as a Flask web application for real-time disease diagnosi
    * Generates treatment and prevention advice
 6. Results are displayed on the web interface.
 
+<img width="399" height="300" alt="1" src="https://github.com/user-attachments/assets/ff76f15f-0f20-4324-a914-589ce5772825" />
+<img width="398" height="405" alt="2" src="https://github.com/user-attachments/assets/1ca0ac18-450f-4dd2-a1d8-85f426a73bd6" />
+
+<img width="391" height="257" alt="3" src="https://github.com/user-attachments/assets/93f4e35d-1fb5-4842-bbce-77fd0b4d2acf" />
+
 ---
 
 ## Installation and Setup
